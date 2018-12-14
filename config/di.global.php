@@ -2,9 +2,13 @@
 
 declare(strict_types=1);
 
+
+use App\Connect4\Factory\Game;
 use Support\Factory;
 use Support\Renderer;
-use Support\Service;
+use Support\Service\ConnectFourGame as Connect4;
+use Support\Service\PseudoRandomValue;
+use Support\Service\RandomValue;
 use Zend\ServiceManager\Factory\InvokableFactory;
 
 return [
@@ -14,12 +18,12 @@ return [
     'service_manager' => [
         'factories' => [
             Renderer\Output::class => Factory\Renderer\Output::class,
-            Service\ConnectFourGame::class => Factory\Service\ConnectFourGame::class,
+            Connect4::class => Factory\Service\ConnectFourGame::class,
             // InvokableFactory can be used when the service does not need any constructor argument
-            Service\PseudoRandomValue::class => InvokableFactory::class,
+            PseudoRandomValue::class => InvokableFactory::class,
         ],
         'aliases' => [
-            Service\RandomValue::class => Service\PseudoRandomValue::class,
+            RandomValue::class => PseudoRandomValue::class,
         ],
     ]
 ];
