@@ -8,6 +8,7 @@ final class Player implements Participant
 {
 
     private $id;
+    private $name;
 
     public function __construct(int $id)
     {
@@ -17,5 +18,10 @@ final class Player implements Participant
     public function id(): int
     {
       return $this->id;
+    }
+
+    public function getName(): string
+    {
+        return $this->name;
     }
 }

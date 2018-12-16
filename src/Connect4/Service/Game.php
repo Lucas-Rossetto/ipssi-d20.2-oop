@@ -6,7 +6,7 @@ namespace App\Connect4\Service;
 
 use Support\Renderer\Output;
 
-interface Game
+public final class Game
 {
-  public function run(): Output;
+
 }
