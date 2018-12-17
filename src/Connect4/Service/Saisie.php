@@ -37,7 +37,6 @@ public final class Saisie
     public function showErrorImpossibleCaseMessage(){
 
         echo 'Désolé , la case que vous avez choisi n existe pas !';
-        
-    }
 
+    }
 }

@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8537cf2-97b1-415a-b25b-66de30628133" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Connect4/Entity/Grid.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Connect4/Entity/Grid.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Connect4/Service/Game.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Connect4/Service/Saisie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Connect4/Service/Saisie.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Connect4/Service/Saisie.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Connect4/Service/Saisie.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+            <state relative-caret-position="454">
+              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -281,12 +279,12 @@
       <workItem from="1544776939137" duration="8045000" />
       <workItem from="1544981429966" duration="1783000" />
       <workItem from="1544997636263" duration="1323000" />
-      <workItem from="1545040395144" duration="3064000" />
+      <workItem from="1545040395144" duration="3111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33789000" />
+    <option name="totallyTimeSpent" value="33836000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -512,8 +510,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Connect4/Service/Saisie.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        <state relative-caret-position="454">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
         </state>
       </provider>
     </entry>
