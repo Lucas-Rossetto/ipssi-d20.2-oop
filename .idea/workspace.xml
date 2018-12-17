@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8537cf2-97b1-415a-b25b-66de30628133" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/compositionoverinheritance.md" beforeDir="false" afterPath="$PROJECT_DIR$/compositionoverinheritance.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,8 +85,8 @@
         <entry file="file://$PROJECT_DIR$/compositionoverinheritance.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" column="88" selection-start-line="8" selection-start-column="88" selection-end-line="8" selection-end-column="88" />
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="74" lean-forward="true" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
               </first_editor>
               <second_editor />
             </state>
@@ -237,12 +236,12 @@
       <workItem from="1544776939137" duration="8045000" />
       <workItem from="1544981429966" duration="1783000" />
       <workItem from="1544997636263" duration="1323000" />
-      <workItem from="1545040395144" duration="1364000" />
+      <workItem from="1545040395144" duration="1519000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32089000" />
+    <option name="totallyTimeSpent" value="32244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -459,8 +458,8 @@
     <entry file="file://$PROJECT_DIR$/compositionoverinheritance.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="88" selection-start-line="8" selection-start-column="88" selection-end-line="8" selection-end-column="88" />
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="74" lean-forward="true" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
           </first_editor>
           <second_editor />
         </state>
