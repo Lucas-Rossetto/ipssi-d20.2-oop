@@ -77,11 +77,6 @@ class Grid {
         print '</table>';
     }
 
-    protected function showWinnerMessage(){
-
-        print '<p class="message">Player ' . $this->getCurrentPlayer() .' gagne la partie !</p>';
-    }
-
     protected function getCurrentBoard(){
 
         return $this->board_array;
